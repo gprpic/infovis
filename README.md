@@ -1,3 +1,3 @@
 # infovis
 
-Testing...
+[Test page](https://gprpic.github.io/infovis/test.html)
