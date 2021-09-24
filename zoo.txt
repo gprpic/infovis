@@ -1,1 +1,18 @@
+visual encodings
+graphical perception
+index chart
 small multiples
+horizon graph
+box-and-whisker plot
+Parallel coordinates
+graduated symbol map
+Dorling cartogram
+node-link diagram
+dendrogram
+adjacency diagram
+sunburst layout
+icicle layout
+enclosure diagram
+Squarified treemaps
+force-directed layout
+seriation
