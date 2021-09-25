@@ -22,6 +22,10 @@
 
 * [GitHub](https://gprpic.github.io/infovis/MOM2021w38.html)
 
+* [Flourish Studio - Bubbles](https://public.flourish.studio/visualisation/7359100/)
+
+* [Flourish Studio - Scatter](https://public.flourish.studio/visualisation/7359681/)
+
 ***
 
 [Zoo.txt](https://gprpic.github.io/infovis/zoo.txt)
