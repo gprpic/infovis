@@ -24,7 +24,7 @@
 
 * [Flourish Studio - Bubbles](https://public.flourish.studio/visualisation/7359100/)
 
-* [Flourish Studio - Scatter](https://public.flourish.studio/visualisation/7359681/)
+* [Flourish Studio - Beeswarm](https://public.flourish.studio/visualisation/7359681/)
 
 ***
 
